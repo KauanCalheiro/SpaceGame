@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    
+    <!-- Stone body -->
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M40,10 L20,20 L10,40 L20,60 L40,70 L60,60 L70,40 L60,20 Z"/>
+    
+    <!-- Stone details -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M30,30 L20,40 L30,50 L40,45 Z"/>
+    
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M50,35 L45,45 L55,50 Z"/>
+</vector> 

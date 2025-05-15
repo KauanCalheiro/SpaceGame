@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1080dp"
+    android:height="1920dp"
+    android:viewportWidth="1080"
+    android:viewportHeight="1920">
+    
+    <!-- Space background -->
+    <path
+        android:fillColor="#0A0E21"
+        android:pathData="M0,0 L1080,0 L1080,1920 L0,1920 Z"/>
+    
+    <!-- Stars (small) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,200 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M300,400 m-1,0 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M500,150 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M700,300 m-1,0 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M900,600 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M200,800 m-1,0 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M400,1000 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M600,1200 m-1,0 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M800,1400 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M1000,1600 m-1,0 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0"/>
+    
+    <!-- Larger stars with glow -->
+    <path
+        android:fillColor="#8AFAFAFA"
+        android:pathData="M150,350 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    
+    <path
+        android:fillColor="#8AFAFAFA"
+        android:pathData="M450,650 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    
+    <path
+        android:fillColor="#8AFAFAFA"
+        android:pathData="M750,950 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    
+    <path
+        android:fillColor="#8AFAFAFA"
+        android:pathData="M250,1250 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    
+    <path
+        android:fillColor="#8AFAFAFA"
+        android:pathData="M550,1550 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    
+    <!-- Distant galaxies/nebulae -->
+    <path
+        android:fillColor="#3F3F8F"
+        android:pathData="M300,1700 C350,1750 400,1760 450,1730 C500,1700 510,1650 480,1600 C450,1550 400,1540 350,1570 C300,1600 290,1650 300,1700 Z"/>
+    
+    <path
+        android:fillColor="#8F3F7F"
+        android:pathData="M800,500 C850,550 900,560 950,530 C1000,500 1010,450 980,400 C950,350 900,340 850,370 C800,400 790,450 800,500 Z"/>
+</vector> 
